@@ -1,13 +1,13 @@
 {
   "name": "edges-to-adjacency-list",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Convert a list of edges to an adjacency list",
   "main": "e2a.js",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "uniq": "^0.0.2"
+    "uniq": "^1.0.0"
   },
   "devDependencies": {
     "tape": "^2.12.3"
